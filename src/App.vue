@@ -1,6 +1,5 @@
 <script setup>
 import { useI18n } from 'vue-i18n';
-import Test from './components/Test.vue';
 
 const { t, locale } = useI18n({ useScope: 'global' });
 
